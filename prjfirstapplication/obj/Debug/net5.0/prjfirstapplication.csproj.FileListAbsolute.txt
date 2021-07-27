@@ -1,0 +1,16 @@
+C:\.nettraing\prjcommandlineapplication\prjfirstapplication\obj\Debug\net5.0\prjfirstapplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\.nettraing\prjcommandlineapplication\prjfirstapplication\obj\Debug\net5.0\prjfirstapplication.AssemblyInfoInputs.cache
+C:\.nettraing\prjcommandlineapplication\prjfirstapplication\obj\Debug\net5.0\prjfirstapplication.AssemblyInfo.cs
+C:\.nettraing\prjcommandlineapplication\prjfirstapplication\obj\Debug\net5.0\prjfirstapplication.csproj.CoreCompileInputs.cache
+C:\.nettraing\prjcommandlineapplication\prjfirstapplication\obj\Debug\net5.0\prjfirstapplication.csproj.AssemblyReference.cache
+C:\.nettraing\prjcommandlineapplication\prjfirstapplication\bin\Debug\net5.0\prjfirstapplication.exe
+C:\.nettraing\prjcommandlineapplication\prjfirstapplication\bin\Debug\net5.0\prjfirstapplication.deps.json
+C:\.nettraing\prjcommandlineapplication\prjfirstapplication\bin\Debug\net5.0\prjfirstapplication.runtimeconfig.json
+C:\.nettraing\prjcommandlineapplication\prjfirstapplication\bin\Debug\net5.0\prjfirstapplication.runtimeconfig.dev.json
+C:\.nettraing\prjcommandlineapplication\prjfirstapplication\bin\Debug\net5.0\prjfirstapplication.dll
+C:\.nettraing\prjcommandlineapplication\prjfirstapplication\bin\Debug\net5.0\ref\prjfirstapplication.dll
+C:\.nettraing\prjcommandlineapplication\prjfirstapplication\bin\Debug\net5.0\prjfirstapplication.pdb
+C:\.nettraing\prjcommandlineapplication\prjfirstapplication\obj\Debug\net5.0\prjfirstapplication.dll
+C:\.nettraing\prjcommandlineapplication\prjfirstapplication\obj\Debug\net5.0\ref\prjfirstapplication.dll
+C:\.nettraing\prjcommandlineapplication\prjfirstapplication\obj\Debug\net5.0\prjfirstapplication.pdb
+C:\.nettraing\prjcommandlineapplication\prjfirstapplication\obj\Debug\net5.0\prjfirstapplication.genruntimeconfig.cache

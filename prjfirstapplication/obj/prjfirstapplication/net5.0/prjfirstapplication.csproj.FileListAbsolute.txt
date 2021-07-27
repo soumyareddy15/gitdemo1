@@ -1,0 +1,5 @@
+C:\.nettraing\prjcommandlineapplication\prjfirstapplication\obj\prjfirstapplication\net5.0\prjfirstapplication.csproj.AssemblyReference.cache
+C:\.nettraing\prjcommandlineapplication\prjfirstapplication\obj\prjfirstapplication\net5.0\prjfirstapplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\.nettraing\prjcommandlineapplication\prjfirstapplication\obj\prjfirstapplication\net5.0\prjfirstapplication.AssemblyInfoInputs.cache
+C:\.nettraing\prjcommandlineapplication\prjfirstapplication\obj\prjfirstapplication\net5.0\prjfirstapplication.AssemblyInfo.cs
+C:\.nettraing\prjcommandlineapplication\prjfirstapplication\obj\prjfirstapplication\net5.0\prjfirstapplication.csproj.CoreCompileInputs.cache

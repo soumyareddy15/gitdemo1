@@ -26,7 +26,7 @@ namespace prjfirstapplication
             }
             foreach(var fu in fruits)
             {
-                Console.WriteLine("Fruitanme:{0}", fu);
+                Console.WriteLine("Fruitanme is :{0}", fu);
             }
         }
     }

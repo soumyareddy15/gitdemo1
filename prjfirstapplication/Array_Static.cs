@@ -34,7 +34,7 @@ namespace prjfirstapplication
     {
         internal void StringFunctionEg()
         {
-            string Firstname = "Sai";
+            string Firstname = "Saihiti";
             string Name = "Monisha Devi";
             Console.WriteLine("TO UPPER:{0}",Firstname.ToUpper());
             Console.WriteLine("TO LOWER:{0}", Firstname.ToLower());
